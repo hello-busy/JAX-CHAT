@@ -1,2 +1,2 @@
-# JAX-CHAT
-JAX: Chat
+# JAX: Chat!
+Created by SD&T
